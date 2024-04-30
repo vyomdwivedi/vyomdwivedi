@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project you want to do with me**
 
-- 👨‍💻 All of my projects are available at [https://vyomdwivedi.github.io/Dev-Folio/](https://vyomdwivedi.github.io/Dev_Folio/)
+- 👨‍💻 All of my projects are available at [https://vyomdwivedi.github.io/Dev_Folio/](https://vyomdwivedi.github.io/Dev_Folio/)
 
 - 💬 Ask me about **anything you want to know about**
 
